@@ -7,7 +7,7 @@ function Platforms() {
 <div className='plat'>
     <img src="https://www.edigitalagency.com.au/wp-content/uploads/Disney-logo-white-png.png" alt="" />
    <div className='vid'>
-        <video  playsinline="true" loop="true" autoplay preload="auto">
+        <video   playsinline="true" loop="true" autoplay preload="auto">
             <source type='video/mp4' src="https://img10.hotstar.com/video/upload/sources/r1/cms/animations/qh3yh_1587393133132" />
         </video>
    </div>
@@ -16,7 +16,7 @@ function Platforms() {
 <div className='plat'>
     <img src="https://1000logos.net/wp-content/uploads/2017/08/Pixar-symbol.jpg" alt="" />
    <div  className='vid'>
-        <video  playsinline="" loop="true" autoplay preload="auto">
+        <video   playsinline="" loop="true" autoplay preload="auto">
             <source type='video/mp4' src="https://img10.hotstar.com/video/upload/sources/r1/cms/animations/a6lr0r_1587393331483" />
         </video>
    </div>
